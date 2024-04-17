@@ -1,6 +1,8 @@
 {
-  "homepage": "http://sangamkumar017.github.io/Portfolio_reactjs",
-  "name": "Portfolio_reactjs",
+ 
+  "homepage": "https://github.com/shafiuzzama.github.io/Portfolio_reactjs-main",
+  "name": "Portfolio_reactjs-main",
+  
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -46,8 +48,8 @@
   },
   "description": "portfolio",
   "main": "index.js",
-  "repository": "https://github.com/sangamkumar017/Portfolio_reactjs",
-  "author": "sangam kumar",
+  "repository": "https://github.com/shafiuzzama.github.io/Portfolio_reactjs-main",
+  "author": "shafi uzzam",
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^6.1.0"
